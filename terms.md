@@ -4,7 +4,7 @@ By inviting HABO bot to your discord server you agree that you have read, unders
 ---
 ### Disclaimer
 
-You are strictly prohibited to use HABO bot against the ToS of discord or for illegal purposes. We are doing our best to prevent these activities, while trying to provide the best user experience as possible. If you find people or communities using HABO bot against the ToS of discord or even for illegal activities, please send us some feedback via the feedback command in the bot.
+You are strictly prohibited to use HABO bot against the ToS of discord or for illegal purposes. We are doing our best to prevent these activities, while trying to provide the best user experience as possible. If you find people or communities using HABO bot against the ToS of discord or even for illegal activities, please send us some feedback via the `feedback` command in the bot.
 
 ### Availability
 
