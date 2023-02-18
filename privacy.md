@@ -12,9 +12,9 @@ Information about the server such as the bot settings for the server will be sav
 
 ### How do I delete my data?
 
-You can request to have your user data deleted with the `deletemydata` command & this will delete all levels and leaderboard data collected by the bot within 2 hours of request.
+You can request to have your user data deleted with the `deletemydata` command & this will delete all levels and leaderboard data collected by the bot within 24 hours of request.
 
-If you want to delete any info the bot has collected on your server (eg. leaderboards, levels) you can kick the bot from your server & re add it. When the bot is removed from a server it will delete any data the bot has accumulated on that server.
+If you want to delete any info the bot has collected on your server (eg. leaderboards, levels) you can kick the bot from your server & invite it back in 2 weeks. When the bot is removed from a server it will delete any data the bot has accumulated on that server after 2 weeks after leaving.
 
 ### For how long is this data stored?
 
@@ -22,4 +22,4 @@ All data containing message content will be deleted after 14 days to protect the
 
 Data that does not contain message content will be stored until the user requests its removal or the bot is removed from the server in which the data is related to. 
 
-As previously stated above, users can request to have their data removed & said data will be removed within 2 hours.
+As previously stated above, users can request to have their data removed & said data will be removed within 24 hours.
